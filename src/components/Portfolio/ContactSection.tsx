@@ -20,7 +20,7 @@ const ContactSection = () => {
             size="lg"
             className="px-8 py-6 text-base font-medium bg-primary text-primary-foreground hover:bg-primary/90 subtle-glow"
           >
-            <a href="mailto:your.email@example.com" className="flex items-center gap-2">
+            <a href="aniltimilsena53@gmail.com" className="flex items-center gap-2">
               <Mail size={20} />
               Send Email
             </a>
