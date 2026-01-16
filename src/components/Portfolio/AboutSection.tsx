@@ -11,14 +11,10 @@ const AboutSection = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6 fade-in-up">
             <p className="text-muted-foreground leading-relaxed text-lg">
-              I'm a recent Information Science and Engineering graduate from VTU University, Karnataka, 
-              with a strong foundation in software development, machine learning, and data science. 
-              My passion lies in exploring how AI and deep learning can solve complex real-world problems.
+              I'm a recent Information Science and Engineering graduate from VTU University, Karnataka with a strong foundation in software development, machine learning, and data science. My passion lies in exploring how AI and deep learning can solve complex real-world problems.
             </p>
             <p className="text-muted-foreground leading-relaxed text-lg">
-              With hands-on experience at leading tech companies like Samsung and IBM, I've developed 
-              a robust understanding of both cutting-edge AI technologies and practical software engineering principles. 
-              I'm eager to contribute to innovative projects that push the boundaries of what's possible.
+              With hands-on experience at leading tech companies like Samsung and IBM, I've developed a robust understanding of both cutting-edge AI technologies and practical software engineering principle. I'm eager to contribute to innovative projects that push the boundaries of what's possible.
             </p>
             
             <div className="flex gap-5 pt-4">
